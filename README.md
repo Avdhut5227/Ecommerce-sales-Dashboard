@@ -1,4 +1,4 @@
-# E-Commerce Sales Dashboard
+<img width="1341" height="740" alt="image" src="https://github.com/user-attachments/assets/35ec0549-3011-46d3-b79d-16db30ca8c80" /># E-Commerce Sales Dashboard
 
 An interactive data analytics dashboard built to analyze e-commerce sales performance and customer behavior, enabling data-driven business insights.
 
@@ -30,7 +30,9 @@ This project focuses on visualizing and analyzing sales data to identify trends,
 4. Use filters and slicers to explore insights
 
 ## 📷 Screenshots
-(Add screenshots of your Power BI dashboard here)
+<img width="1341" height="740" alt="image" src="https://github.com/user-attachments/assets/92dfc768-db84-4615-a126-d83c1d4e1e05" />
+
+
 
 ## 📚 Learning Outcome
 - Hands-on experience with real-world sales data
