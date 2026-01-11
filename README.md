@@ -30,7 +30,8 @@ This project focuses on visualizing and analyzing sales data to identify trends,
 4. Use filters and slicers to explore insights
 
 ## 📷 Screenshots
-<img width="1341" height="740" alt="image" src="https://github.com/user-attachments/assets/92dfc768-db84-4615-a126-d83c1d4e1e05" />
+<img width="1338" height="742" alt="image" src="https://github.com/user-attachments/assets/a3f932c9-9fbf-40bd-8cda-e812c1f084c8" />
+
 
 
 
